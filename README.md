@@ -1,6 +1,10 @@
 # Simple-Ransomware
 ## Encrypt and decrypt files in your target directory
 ## !!! For educational reasons only !!!
+### Install cryptography with command:
+```
+pip install cryptography
+```
 ### To encrypt files in directory run command:
 ```
 python main.py -e <target_dir_path>
