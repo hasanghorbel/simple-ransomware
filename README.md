@@ -12,7 +12,7 @@ python main.py -d <target_dir_path>
 ```
 python main.py
 ```
-example only envrypts files
+example only encrypts files
 ## !!! If you encrypt more than one time your directory
 
 ## You can use the key history to find the last key you used !!!
