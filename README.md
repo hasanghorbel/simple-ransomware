@@ -1,4 +1,4 @@
-# Simple-Ransomware
+# Simple Ransomware
 ## Encrypt and decrypt files in your target directory
 ## !!! For educational reasons only !!!
 ### Install cryptography with command:
